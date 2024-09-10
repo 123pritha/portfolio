@@ -47,7 +47,6 @@ To get a local copy up and running, follow these simple steps.
 
 Ensure you have a basic code editor like [Visual Studio Code](https://code.visualstudio.com/) or any other editor of your choice.
 
-### Installation
 
 1. Clone the repository:
 
